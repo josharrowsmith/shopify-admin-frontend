@@ -1,2 +1,1 @@
-# shopify-admin-frontend
-shh
+# shopify admin frontend, so i can stop using ngrok
